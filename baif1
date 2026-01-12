@@ -1,1 +1,15 @@
-
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Bai 0</title>
+    <head>
+        <h1>Lap trinh HTML hoc ky 2 ca nam</h1>
+        <p>Hoten:</p>
+        <h2>Bai F2</h2>
+        <p><a href="baif1/hinh3.html">hinh 3</a></p>
+        <p><a href="baif1/hinh4.html">hinh 4</a></p>
+        <p><a href="baif1/hinh5.html">hinh 5</a></p>
+        <p><a href="baif1/hinh6.html">hinh 6</a></p>
+        <p><a href="baif1/hinh7.html">hinh 7</a></p>
+        <h2>Bai F3</h2>
+</html>
